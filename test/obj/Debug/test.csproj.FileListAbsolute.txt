@@ -1,0 +1,13 @@
+D:\Ejemplo\Bellatrix\test\bin\Debug\test.dll
+D:\Ejemplo\Bellatrix\test\bin\Debug\test.pdb
+D:\Ejemplo\Bellatrix\test\bin\Debug\Bellatrix.exe
+D:\Ejemplo\Bellatrix\test\bin\Debug\Bellatrix.pdb
+D:\Ejemplo\Bellatrix\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Ejemplo\Bellatrix\test\obj\Debug\test.dll
+D:\Ejemplo\Bellatrix\test\obj\Debug\test.pdb
+D:\Ejemplo\Bellatrix\test\bin\Debug\BellatrixBE.dll
+D:\Ejemplo\Bellatrix\test\bin\Debug\BellatrixBA.dll
+D:\Ejemplo\Bellatrix\test\bin\Debug\BellatrixDA.dll
+D:\Ejemplo\Bellatrix\test\bin\Debug\BellatrixBE.pdb
+D:\Ejemplo\Bellatrix\test\bin\Debug\BellatrixBA.pdb
+D:\Ejemplo\Bellatrix\test\bin\Debug\BellatrixDA.pdb

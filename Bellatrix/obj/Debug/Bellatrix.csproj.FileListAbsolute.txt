@@ -1,0 +1,14 @@
+D:\Ejemplo\Bellatrix\Bellatrix\bin\Debug\Bellatrix.exe.config
+D:\Ejemplo\Bellatrix\Bellatrix\obj\Debug\Bellatrix.csprojResolveAssemblyReference.cache
+D:\Ejemplo\Bellatrix\Bellatrix\obj\Debug\Bellatrix.Properties.Resources.resources
+D:\Ejemplo\Bellatrix\Bellatrix\obj\Debug\Bellatrix.csproj.GenerateResource.Cache
+D:\Ejemplo\Bellatrix\Bellatrix\bin\Debug\Bellatrix.exe
+D:\Ejemplo\Bellatrix\Bellatrix\bin\Debug\Bellatrix.pdb
+D:\Ejemplo\Bellatrix\Bellatrix\obj\Debug\Bellatrix.exe
+D:\Ejemplo\Bellatrix\Bellatrix\obj\Debug\Bellatrix.pdb
+D:\Ejemplo\Bellatrix\Bellatrix\bin\Debug\BellatrixBA.dll
+D:\Ejemplo\Bellatrix\Bellatrix\bin\Debug\BellatrixBE.dll
+D:\Ejemplo\Bellatrix\Bellatrix\bin\Debug\BellatrixDA.dll
+D:\Ejemplo\Bellatrix\Bellatrix\bin\Debug\BellatrixBA.pdb
+D:\Ejemplo\Bellatrix\Bellatrix\bin\Debug\BellatrixBE.pdb
+D:\Ejemplo\Bellatrix\Bellatrix\bin\Debug\BellatrixDA.pdb

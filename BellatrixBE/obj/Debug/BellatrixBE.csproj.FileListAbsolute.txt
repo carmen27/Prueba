@@ -1,0 +1,5 @@
+D:\Ejemplo\Bellatrix\BellatrixBE\bin\Debug\BellatrixBE.dll
+D:\Ejemplo\Bellatrix\BellatrixBE\bin\Debug\BellatrixBE.pdb
+D:\Ejemplo\Bellatrix\BellatrixBE\obj\Debug\BellatrixBE.csprojResolveAssemblyReference.cache
+D:\Ejemplo\Bellatrix\BellatrixBE\obj\Debug\BellatrixBE.dll
+D:\Ejemplo\Bellatrix\BellatrixBE\obj\Debug\BellatrixBE.pdb
